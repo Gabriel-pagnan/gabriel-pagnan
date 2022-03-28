@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gabriel-pagnan
 - 🌱 I’m currently learning:  HTML, CSS, JavaScrit
-- 📚 school: Fatec-Franca/SP
--     Course: Desenvolvimento de software multiplataforma
+- 📚 Faculdade: Fatec-Franca/SP
+-     Curso: Desenvolvimento de software multiplataforma
 
 <!---
 Gabriel-pagnan/Gabriel-pagnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
