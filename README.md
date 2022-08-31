@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gabriel-pagnan
-- 🌱 I’m currently learning:  HTML, CSS, JavaScrit
+- 🌱 I’m currently learning:  HTML, CSS/LESS, JavaScrit
 - 📚 Faculdade: Fatec-Franca/SP
 -     Curso: Desenvolvimento de software multiplataforma
 
