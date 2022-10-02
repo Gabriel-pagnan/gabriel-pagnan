@@ -10,7 +10,7 @@ Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino.
 ### Um pouco sobre mim
 <br/>
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-pagnan&show_icons=true&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-pagnan&show_icons=true&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 
 ### Tecnologias que utilizo
@@ -22,9 +22,9 @@ Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" />         
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50px" />
-          
-      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" />       
 </div>
 <br/>
 
