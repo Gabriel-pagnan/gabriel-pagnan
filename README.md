@@ -28,7 +28,7 @@ Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino.
 </div>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-pagnan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-pagnan&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
 ### contatos 
