@@ -1,6 +1,7 @@
+<div align="center">
 # Meu no nome é Gabriel
 
-Curso Desenvolvimento de softoware multiplataforma na <br/>
+Curso Desenvolvimento de Softoware Multiplataforma na <br/>
 Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino.
 
 
@@ -40,8 +41,7 @@ Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabriel-pagnan00) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielviniciuspagnan@gmail.com) [![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](gabriel.pagnan@fatec.sp.gov.br)
 <br/>
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/z41xiytmd5znknd6ztybqbsrj?si=4d2f99aa479d4b76)
-
-
+<div/>
 <!---
 Gabriel-pagnan/Gabriel-pagnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
