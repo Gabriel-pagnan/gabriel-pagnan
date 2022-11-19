@@ -1,8 +1,7 @@
 <div align="center">
 
-# Meu no nome é Gabriel
-
-Curso Desenvolvimento de Softoware Multiplataforma na <br/>
+Fullstack Developer em formação.<br/>
+Desenvolvimento de Softoware Multiplataforma na <br/>
 Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino.
 
 
@@ -16,25 +15,29 @@ Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gabriel-pagnan&theme=dark)](https://git.io/streak-stats)
 <br/><br/>
 
+    
 ### Tecnologias que estudo e utilizo.
-
-<div style="display: flex; gap: 10px">
+</br>
+<div style="display: flex">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="50px" />                
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" />         
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px" />          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="50px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" />
-    <br/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="50px" />
-          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px" />     
 </div>
 <br/>
 
+<div style="display: flex">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50px"/>   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50px" />            
+</div>    
+<br/>
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-pagnan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
