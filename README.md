@@ -6,6 +6,11 @@ Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino.
 
 ### Um pouco sobre mim.
 <br/>
+
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-pagnan&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gabriel-pagnan&theme=dark)](https://git.io/streak-stats)
+</br>
+
    
 ### Tecnologias que estudo e utilizo.
 </br>
@@ -26,9 +31,10 @@ Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50px" />            
-</div>    
-<br/>
-    
+</div></br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-pagnan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### contatos 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabriel-pagnan00) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielviniciuspagnan@gmail.com) [![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](gabriel.pagnan@fatec.sp.gov.br)
