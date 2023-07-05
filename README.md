@@ -1,35 +1,32 @@
+## Um pouco sobre mim.
 
 Fullstack Developer em formação.<br/>
 Desenvolvimento de Softoware Multiplataforma na <br/>
 Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino.
 
-### Um pouco sobre mim.
-<br>
+<br></br>
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-pagnan&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gabriel-pagnan&theme=dark)](https://git.io/streak-stats)
+
 </br>
 
    
-### Tecnologias que estudo e utilizo.
-</br>
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50px"/>   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" /> 
-</div>
-<br/>
+## Tecnologias que estudo e utilizo.
 
+### Front-end
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,styledcomponents,tailwind,mui,figma)](https://skillicons.dev)
+
+### Back-end
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,express)](https://skillicons.dev)
+
+### Banco de dados
+
+[![My Skills](https://skillicons.dev/icons?i=mongo,postgres,mysql)](https://skillicons.dev)
+
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-pagnan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
