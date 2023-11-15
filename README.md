@@ -16,11 +16,11 @@ Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino.
 
 ### Front-end
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,styledcomponents,tailwind,mui,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,styledcomponents,tailwind,mui)](https://skillicons.dev)
 
 ### Back-end
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,sequelize,express,git)](https://skillicons.dev)
 
 ### Banco de dados
 
