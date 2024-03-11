@@ -20,7 +20,7 @@ Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino.
 
 ### Back-end
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,sequelize,express,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,prisma,sequelize,express,git)](https://skillicons.dev)
 
 ### Banco de dados
 
