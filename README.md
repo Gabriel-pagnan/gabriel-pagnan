@@ -1,18 +1,10 @@
-## Um pouco sobre mim.
-
-Fullstack Developer em formação.<br/>
-Desenvolvimento de Softoware Multiplataforma na <br/>
-Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino.
-
-<br></br>
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-pagnan&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gabriel-pagnan&theme=dark)](https://git.io/streak-stats)
 
 </br>
 
-   
-## Tecnologias que estudo e utilizo.
+## Skills
 
 ### Front-end
 
